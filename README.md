@@ -18,7 +18,7 @@
   - ModSecurity WAF 정책 최적화
   - 실시간 보안 이벤트 모니터링/알림
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Target" width="25" height="25" /> **Red Team - 모의해킹**: 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="25" height="25" /> **Red Team - 모의해킹**: 
   - OWASP Top 10 기반 웹 취약점 진단
   - Burp Suite, Kali Linux 활용 침투 테스트
   - 취약점 분석 및 보고서 작성
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=ModSecurity&color=B4F4D0&style=flat-square&logoColor=black"/>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Target" width="25" height="25" /> Used Penetration Testing Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="25" height="25" /> Used Penetration Testing Tools
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Burp Suite&color=B4E4FF&style=flat-square&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=OWASP ZAP&color=FFB4B4&style=flat-square&logo=owasp&logoColor=black"/>&nbsp;
