@@ -33,34 +33,66 @@
 <div align="center">
   
 ### 🔒 Used Security Tools
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+
 ![Wazuh](https://img.shields.io/badge/Wazuh-326CE5?style=for-the-badge&logo=shield&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=shield&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-000000?style=for-the-badge&logo=shield&logoColor=white)
+![ModSecurity](https://img.shields.io/badge/ModSecurity-D24939?style=for-the-badge&logo=shield&logoColor=white)
+
+</div>
+
+### 🎯 Used Penetration Testing Tools
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=shield&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-FF0000?style=for-the-badge&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=shield&logoColor=white)
+
+</div>
 
 ### 🚀 Used DevSecOps Tools
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kind](https://img.shields.io/badge/Kind-375EAB?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-FF0000?style=for-the-badge&logo=owasp&logoColor=white)
+
+</div>
 
 ### 💻 Used Development Tools
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+### 💾 Used Database
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+</div>
 
 ### 📝 Used Documentation Tools
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
 
 </div>
 
