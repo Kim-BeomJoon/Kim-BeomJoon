@@ -1,4 +1,25 @@
 <div align="center">
+  
+  <!-- 타이핑 효과가 있는 버전 -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Beomjoon+Kim+%F0%9F%94%90;Security+Explorer+%F0%9F%9B%A1)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+  
+  <!-- 웨이브 효과가 있는 버전 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:79C0FF&height=120&section=header&text=Security%20Explorer&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</div>
+
+<div align="center">
+  
+  <!-- 미니멀한 버전 -->
+  <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI5NWR2Y2E4ZHd0MWRyOXd6NmRtbXBxbWxqcWN0NmRyaWVyeHJsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30">
+    Security Explorer
+  </h2>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Security%20Explorer&fontSize=70&animation=fadeIn&fontColor=ffffff&desc=Information%20Security%20Record&descSize=20&descAlignY=70" />
 </div>
 
