@@ -12,6 +12,9 @@
 
 </br>
 
+<div style="display: flex; align-items: flex-start; gap: 40px;">
+<div style="flex: 1;">
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> 주요 역량 및 프로젝트 경험
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="25" height="25" /> **Blue Team - 보안 운영**: 
@@ -35,6 +38,12 @@
   - Jenkins, SonarQube CI/CD 파이프라인
   - 보안 취약점 자동 스캔 시스템 구현
   - 취약점 실습용 웹 서버 구축
+
+</div>
+<div style="flex: 1;">
+    <img src="./docs/images/struggle.png" alt="Project Experience" width="100%" style="margin-top: 50px;"/>
+</div>
+</div>
 
 </br>
 
