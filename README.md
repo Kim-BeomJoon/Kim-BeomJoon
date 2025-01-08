@@ -1,6 +1,6 @@
 # 안녕하세요, 저는 김범준입니다. 
 
-<div align="left">
+<div align="left" style="display: flex; gap: 8px;">
   <a href="https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881">
     <img src="https://img.shields.io/badge/Portfolio-B4E4FF?style=flat-square&logo=notion&logoColor=black"/>
   </a>
