@@ -1,8 +1,8 @@
 # 안녕하세요, 저는 김범준입니다. 
 
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-B4E4FF.svg?style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
-[![Blog](https://custom-icon-badges.demolab.com/badge/Blog-FFB4B4.svg?style=flat-square&logo=tistory&logoColor=black)](https://sky80322.tistory.com/)
-[![Notion](https://custom-icon-badges.demolab.com/badge/Notion-D4B4FF.svg?style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
+[![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=B4E4FF&style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
+[![Blog](https://img.shields.io/static/v1?label=&message=Blog&color=FFB4B4&style=flat-square&logo=tistory&logoColor=black)](https://sky80322.tistory.com/)
+[![Notion](https://img.shields.io/static/v1?label=&message=Notion&color=D4B4FF&style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
 **DevSecOps**, **보안 관제**, **모의해킹 기술**을 기반으로 성장하는 정보보안 전문가를 꿈꾸고 있습니다.
 
 보안은 혼자만의 영역이 아닌, 팀과 조직이 함께 만들어가는 가치라고 믿습니다. </br>
