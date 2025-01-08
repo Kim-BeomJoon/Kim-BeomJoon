@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/static/v1?label=&message=Blog&color=FFB4B4&style=flat-square&logoColor=black)](https://sky80322.tistory.com/)
 [![Notion](https://img.shields.io/static/v1?label=&message=Notion&color=D4B4FF&style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
 
-**DevSecOps**, **보안 관제**, **모의해킹 기술**을 기반으로 성장하는 정보보안 전문가를 꿈꾸고 있습니다.
+**DevSecOps**, **보안 관제**, **취약점 진단**을 기반으로 성장하는 정보보안 전문가를 꿈꾸고 있습니다.
 
 보안은 혼자만의 영역이 아닌, 팀과 조직이 함께 만들어가는 가치라고 믿습니다. </br>
 새로운 보안 위협에 유연하게 대응하고, 팀원들과의 적극적인 협업을 통해 더 나은 보안 솔루션을 만들 수 있습니다. </br>
