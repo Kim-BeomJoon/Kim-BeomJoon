@@ -1,3 +1,6 @@
+<div style="display: flex; align-items: center; gap: 40px;">
+<div style="flex: 2;">
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Greeting" width="35" height="35" /> 안녕하세요, 저는 김범준입니다.
 
 [![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=B4E4FF&style=flat-square&logo=notion&logoColor=black)](https://redryan90.github.io/Portfolio/)
@@ -10,10 +13,13 @@
 새로운 보안 위협에 유연하게 대응하고, 팀원들과의 적극적인 협업을 통해 더 나은 보안 솔루션을 만들 수 있다고 생각합니다. </br>
 습득한 지식과 경험을 공유하며, 함께 성장하는 보안 문화를 만들어가고자 합니다.
 
-</br>
-
-<div style="display: flex; align-items: flex-start; gap: 40px;">
+</div>
 <div style="flex: 1;">
+    <img src="https://raw.githubusercontent.com/redryan90/Portfolio/main/docs/images/profile.png" alt="Profile" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</div>
+</div>
+
+</br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> 주요 역량 및 프로젝트 경험
 
