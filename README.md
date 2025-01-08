@@ -9,9 +9,7 @@
   <!-- 타이핑 효과가 있는 버전 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=800&lines=안녕하세요!;정보보안에서만큼은+언제나+최고가+되고+싶은+김범준입니다.)](https://git.io/typing-svg)
 </div>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimbeomjoon90&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)](https://github.com/kimbeomjoon90)
-</div>
+
 
 ## 🔍 Security Journey
 단계적인 성장을 통해 탄탄한 기초를 쌓아가는 것을 목표로 하고 있습니다.
