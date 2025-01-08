@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/%20Information%20Security%20Portfolio-white?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
 
-저는 **보안 관제**, **모의해킹**, **DevSecOps** 기술을 바탕으로 성장하는 정보보안 전문가입니다. 
+저는 **보안 관제**, **모의해킹**, **DevSecOps** 기술을 바탕으로 성장하는 정보보안 전문가를 꿈꿉니다.</br>
 보안과 개발의 조화로운 통합을 추구하며, 안전한 서비스 구축에 기여하고자 합니다.
 
 ## 저의 주요 강점들
