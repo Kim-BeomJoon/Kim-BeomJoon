@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/static/v1?label=&message=Wazuh&color=B4E4FF&style=flat-square&logo=shield&logoColor=black&fontFamily=Ubuntu"/>
+
 # 안녕하세요, 저는 김범준입니다. 
 
 [![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=B4E4FF&style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
