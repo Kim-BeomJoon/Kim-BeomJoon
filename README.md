@@ -1,4 +1,4 @@
-# 안녕하세요, 보안전문가를 꿈꾸는 김범준입니다. 👋
+# 안녕하세요, 저는 김범준입니다. 
 
 [![Portfolio](https://img.shields.io/badge/📚%20정보보안%20포트폴리오-white?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
 
