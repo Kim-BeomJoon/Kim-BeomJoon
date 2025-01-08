@@ -1,10 +1,9 @@
-<img src="https://img.shields.io/static/v1?label=&message=Wazuh&color=B4E4FF&style=flat-square&logo=shield&logoColor=black&fontFamily=Ubuntu"/>
-<img src="https://img.shields.io/static/v1?label=&message=Wazuh&color=B4E4FF&style=flat-square&logo=shield&logoColor=black&fontFamily=Pacifico"/>
 # 안녕하세요, 저는 김범준입니다. 
 
 [![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=B4E4FF&style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
 [![Blog](https://img.shields.io/static/v1?label=&message=Blog&color=FFB4B4&style=flat-square&logo=tistory&logoColor=black)](https://sky80322.tistory.com/)
 [![Notion](https://img.shields.io/static/v1?label=&message=Notion&color=D4B4FF&style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
+
 </br>
 **DevSecOps**, **보안 관제**, **모의해킹 기술**을 기반으로 성장하는 정보보안 전문가를 꿈꾸고 있습니다.
 
@@ -35,18 +34,18 @@
 
 ### 🔒 Used Security Tools
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=Wazuh&color=B4E4FF&style=flat-square&logo=shield&logoColor=black&fontFamily=Quicksand"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Snort&color=FFB4B4&style=flat-square&logo=shield&logoColor=black&fontFamily=Quicksand"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Suricata&color=D4B4FF&style=flat-square&logo=shield&logoColor=black&fontFamily=Quicksand"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=ModSecurity&color=B4F4D0&style=flat-square&logo=shield&logoColor=black&fontFamily=Quicksand"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Wazuh&color=B4E4FF&style=flat-square&logo=wazuh&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Snort&color=FFB4B4&style=flat-square&logo=cisco&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Suricata&color=D4B4FF&style=flat-square&logo=idssuricata&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=ModSecurity&color=B4F4D0&style=flat-square&logo=apache&logoColor=black"/>
 </p>
 
 ### 🎯 Used Penetration Testing Tools
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=Burp Suite&color=B4E4FF&style=flat-square&logo=shield&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Burp Suite&color=B4E4FF&style=flat-square&logo=portswigger&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=OWASP ZAP&color=FFB4B4&style=flat-square&logo=owasp&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Kali Linux&color=D4B4FF&style=flat-square&logo=kali-linux&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Metasploit&color=B4F4D0&style=flat-square&logo=shield&logoColor=black"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Kali Linux&color=D4B4FF&style=flat-square&logo=kalilinux&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Metasploit&color=B4F4D0&style=flat-square&logo=rapid7&logoColor=black"/>
 </p>
 
 ### 🚀 Used DevSecOps Tools
@@ -66,7 +65,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=D4B4FF&style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=PHP&color=B4F4D0&style=flat-square&logo=php&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Linux&color=B4E4FF&style=flat-square&logo=linux&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Bash&color=FFB4B4&style=flat-square&logo=gnu-bash&logoColor=black"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Bash&color=FFB4B4&style=flat-square&logo=gnubash&logoColor=black"/>
 </p>
 
 ### 💾 Used Database
@@ -79,7 +78,7 @@
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Notion&color=B4E4FF&style=flat-square&logo=notion&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Obsidian&color=FFB4B4&style=flat-square&logo=obsidian&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Microsoft Office&color=D4B4FF&style=flat-square&logo=microsoft-office&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Microsoft Office&color=D4B4FF&style=flat-square&logo=microsoftoffice&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Canva&color=B4F4D0&style=flat-square&logo=canva&logoColor=black"/>
 </p>
 
