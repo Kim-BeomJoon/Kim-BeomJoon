@@ -33,10 +33,10 @@
 
 ### 🔒 Used Security Tools
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=Wazuh&color=B4E4FF&style=flat-square&logo=shield&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Snort&color=FFB4B4&style=flat-square&logo=shield&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Suricata&color=D4B4FF&style=flat-square&logo=shield&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=ModSecurity&color=B4F4D0&style=flat-square&logo=shield&logoColor=black"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Wazuh&color=B4E4FF&style=flat-square&logo=shield&logoColor=black&fontFamily=Quicksand"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Snort&color=FFB4B4&style=flat-square&logo=shield&logoColor=black&fontFamily=Quicksand"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Suricata&color=D4B4FF&style=flat-square&logo=shield&logoColor=black&fontFamily=Quicksand"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=ModSecurity&color=B4F4D0&style=flat-square&logo=shield&logoColor=black&fontFamily=Quicksand"/>
 </p>
 
 ### 🎯 Used Penetration Testing Tools
