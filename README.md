@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=B4E4FF&style=flat-square&logo=notion&logoColor=black)](https://redryan90.github.io/Portfolio/)
 [![Blog](https://img.shields.io/static/v1?label=&message=Blog&color=FFB4B4&style=flat-square&logoColor=black)](https://sky80322.tistory.com/)
-[![Notion](https://img.shields.io/static/v1?label=&message=Notion&color=D4B4FF&style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
+[![Notion](https://img.shields.io/static/v1?label=&message=Notion&color=D4B4FF&style=flat-square&logo=notion&logoColor=black)](http://rednotion.kro.kr)
 
 **DevSecOps**, **보안 관제**, **취약점 진단**을 기반으로 성장하는 정보보안 전문가를 꿈꾸고 있습니다.
 
