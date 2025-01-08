@@ -17,8 +17,7 @@
   - IDS/IPS(Snort, Suricata) 구성 및 운영
   - ModSecurity WAF 정책 최적화
   - 실시간 보안 이벤트 모니터링/알림
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="25" height="25" /> **Red Team - 모의해킹**: 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crosshair.png" alt="Crosshair" width="25" height="25" /> **Red Team - 모의해킹**: 
   - OWASP Top 10 기반 웹 취약점 진단
   - Burp Suite, Kali Linux 활용 침투 테스트
   - 취약점 분석 및 보고서 작성
