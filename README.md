@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://sky80322.tistory.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
 
-DevSecOps, 보안 관제, 모의해킹 기술을 기반으로 성장하는 정보보안 전문가를 꿈꾸고 있습니다.
+**DevSecOps**, **보안 관제**, **모의해킹 기술**을 기반으로 성장하는 정보보안 전문가를 꿈꾸고 있습니다.
 
 보안은 시스템의 완성도를 높이는 핵심 요소라고 믿습니다. 개발 초기 단계부터 보안을 고려하고, 자동화된 보안 테스트를 통해 안전하고 신뢰할 수 있는 서비스를 구축하는 것을 목표로 합니다. 지속적인 학습과 실전 경험을 통해 새로운 보안 위협에 대응할 수 있는 전문성을 키워가고 있습니다.
 
