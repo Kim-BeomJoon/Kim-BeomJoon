@@ -17,12 +17,13 @@
   - IDS/IPS(Snort, Suricata) 구성 및 운영
   - ModSecurity WAF 정책 최적화
   - 실시간 보안 이벤트 모니터링/알림
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dart.png" alt="Dart" width="25" height="25" /> **Red Team - 모의해킹**: 
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bow%20and%20Arrow.png" alt="Bow and Arrow" width="25" height="25" /> **Red Team - 모의해킹**: 
   - OWASP Top 10 기반 웹 취약점 진단
   - Burp Suite, Kali Linux 활용 침투 테스트
   - 취약점 분석 및 보고서 작성
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> **DevSecOps 환경 구축**:
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> **DevSecOps 환경 구축**:
   - Kind 기반 쿠버네티스 환경 구성
   - Jenkins, SonarQube CI/CD 파이프라인
   - 보안 취약점 자동 스캔 시스템 구현
@@ -38,7 +39,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=ModSecurity&color=B4F4D0&style=flat-square&logoColor=black"/>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="25" height="25" /> Used Penetration Testing Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bow%20and%20Arrow.png" alt="Bow and Arrow" width="25" height="25" /> Used Penetration Testing Tools
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Burp Suite&color=B4E4FF&style=flat-square&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=OWASP ZAP&color=FFB4B4&style=flat-square&logo=owasp&logoColor=black"/>&nbsp;
@@ -46,7 +47,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Metasploit&color=B4F4D0&style=flat-square&logoColor=black"/>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Used DevSecOps Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Used DevSecOps Tools
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Kubernetes&color=B4E4FF&style=flat-square&logo=kubernetes&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Kind&color=FFB4B4&style=flat-square&logoColor=black"/>&nbsp;
