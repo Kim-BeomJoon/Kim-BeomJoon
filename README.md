@@ -50,7 +50,7 @@
 
 </br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bomb.png" alt="Bomb" width="25" height="25" /> Used Penetration Testing Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Used Penetration Testing Tools
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Burp Suite&color=B4E4FF&style=flat-square&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=OWASP ZAP&color=FFB4B4&style=flat-square&logo=owasp&logoColor=black"/>&nbsp;
