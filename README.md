@@ -13,11 +13,7 @@
 새로운 보안 위협에 유연하게 대응하고, 팀원들과의 적극적인 협업을 통해 더 나은 보안 솔루션을 만들 수 있다고 생각합니다. </br>
 습득한 지식과 경험을 공유하며, 함께 성장하는 보안 문화를 만들어가고자 합니다.
 
-</div>
-<div style="flex: 1;">
-    <img src="https://raw.githubusercontent.com/redryan90/Portfolio/main/docs/images/profile.png" alt="Profile" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-</div>
-</div>
+
 
 </br>
 
@@ -46,10 +42,7 @@
   - 취약점 실습용 웹 서버 구축
 
 </div>
-<div style="flex: 1;">
-    <img src="./docs/images/struggle.png" alt="Project Experience" width="100%" style="margin-top: 50px;"/>
-</div>
-</div>
+
 
 </br>
 
