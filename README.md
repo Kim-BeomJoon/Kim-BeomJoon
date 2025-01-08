@@ -4,14 +4,8 @@
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://sky80322.tistory.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
 
-DevSecOps, 보안 관제, 모의해킹 기술을 기반으로 성장하는 정보보안 전문가입니다. 클라우드 환경에서의 통합 보안을 추구하며, 안전한 서비스 구축에 기여하고자 합니다.
+DevSecOps, 보안 관제, 모의해킹 기술을 기반으로 성장하는 정보보안 전문가를 꿈꾸고 있습니다.
 
-저의 주요 역량
-- 보안 모니터링 시스템 구축: Wazuh SIEM을 활용한 보안 관제 환경 구축 경험이 있으며, 실시간 보안 이벤트 모니터링 및 대응 체계를 운영해왔습니다.
-- 취약점 진단 및 분석: OWASP Top 10 기반의 웹 취약점 진단과 모의해킹을 수행하며, 보안 위협에 대한 선제적 대응 방안을 제시합니다.
-- DevSecOps 환경 구현: 쿠버네티스 기반의 컨테이너 환경에서 CI/CD 파이프라인에 보안을 통합하여, 개발과 보안의 조화로운 결합을 실현합니다.
-
-보안 전문가로서의 가치관
 보안은 시스템의 완성도를 높이는 핵심 요소라고 믿습니다. 개발 초기 단계부터 보안을 고려하고, 자동화된 보안 테스트를 통해 안전하고 신뢰할 수 있는 서비스를 구축하는 것을 목표로 합니다. 지속적인 학습과 실전 경험을 통해 새로운 보안 위협에 대응할 수 있는 전문성을 키워가고 있습니다.
 
 ## 주요 역량 및 프로젝트 경험
