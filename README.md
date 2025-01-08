@@ -1,8 +1,16 @@
 # 안녕하세요, 저는 김범준입니다. 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://sky80322.tistory.com/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
+<div align="left">
+  <a href="https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881">
+    <img src="https://img.shields.io/badge/Portfolio-F5F5F5?style=flat-square&logo=notion&logoColor=black&fontFamily=Noto%20Sans%20KR"/>
+  </a>
+  <a href="https://sky80322.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-FFE0E6?style=flat-square&logo=tistory&logoColor=black&fontFamily=Noto%20Sans%20KR"/>
+  </a>
+  <a href="https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881">
+    <img src="https://img.shields.io/badge/Notion-E6F3FF?style=flat-square&logo=notion&logoColor=black&fontFamily=Noto%20Sans%20KR"/>
+  </a>
+</div>
 
 **DevSecOps**, **보안 관제**, **모의해킹 기술**을 기반으로 성장하는 정보보안 전문가를 꿈꾸고 있습니다.
 
