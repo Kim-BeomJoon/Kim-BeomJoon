@@ -1,6 +1,11 @@
-# redryan90/README.md
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:79C0FF&height=120&section=header&text=Security%20Explorer&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&fontFamily=Pretendard" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=800&lines=안녕하세요!+보안전문가를+꿈꾸는+김범준입니다+👋;I'm+dreaming+of+being+a+security+professional+💫)](https://git.io/typing-svg)
+<div align="center">
+  <!-- 타이핑 효과가 있는 버전 -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=800&lines=안녕하세요!+보안전문가를+꿈꾸는+김범준입니다+👋;I'm+dreaming+of+being+a+security+professional+💫)](https://git.io/typing-svg)
+</div>
 
 ## 🎯 목표 & 관심분야
 
@@ -42,4 +47,8 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimbeomjoon90&show_icons=true&theme=tokyonight&locale=kr" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 </div>
