@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Greeting" width="35" height="35" /> 안녕하세요, 저는 김범준입니다.
 
-[![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=B4E4FF&style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
+[![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=B4E4FF&style=flat-square&logo=notion&logoColor=black)](https://redryan90.github.io/Portfolio/)
 [![Blog](https://img.shields.io/static/v1?label=&message=Blog&color=FFB4B4&style=flat-square&logoColor=black)](https://sky80322.tistory.com/)
 [![Notion](https://img.shields.io/static/v1?label=&message=Notion&color=D4B4FF&style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
 
