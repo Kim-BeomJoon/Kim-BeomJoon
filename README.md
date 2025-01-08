@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> 안녕하세요, 저는 김범준입니다. 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="35" height="35" /> 안녕하세요, 저는 김범준입니다. 
 
 [![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=B4E4FF&style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
 [![Blog](https://img.shields.io/static/v1?label=&message=Blog&color=FFB4B4&style=flat-square&logoColor=black)](https://sky80322.tistory.com/)
@@ -18,7 +18,7 @@
   - ModSecurity WAF 정책 최적화
   - 실시간 보안 이벤트 모니터링/알림
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bow%20and%20Arrow.png" alt="Bow and Arrow" width="25" height="25" /> **Red Team - 모의해킹**: 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bomb.png" alt="Bomb" width="25" height="25" /> **Red Team - 모의해킹**: 
   - OWASP Top 10 기반 웹 취약점 진단
   - Burp Suite, Kali Linux 활용 침투 테스트
   - 취약점 분석 및 보고서 작성
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=ModSecurity&color=B4F4D0&style=flat-square&logoColor=black"/>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bow%20and%20Arrow.png" alt="Bow and Arrow" width="25" height="25" /> Used Penetration Testing Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bomb.png" alt="Bomb" width="25" height="25" /> Used Penetration Testing Tools
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Burp Suite&color=B4E4FF&style=flat-square&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=OWASP ZAP&color=FFB4B4&style=flat-square&logo=owasp&logoColor=black"/>&nbsp;
