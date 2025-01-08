@@ -94,7 +94,9 @@
   <img src="https://img.shields.io/static/v1?label=&message=Canva&color=FFB4B4&style=flat-square&logo=canva&logoColor=black"/>
 </p>
 
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=redryan90&show_icons=true&theme=tokyonight&locale=kr" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redryan90&layout=compact&theme=tokyonight&locale=kr" />
 </div>
