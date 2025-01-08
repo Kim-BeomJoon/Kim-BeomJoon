@@ -1,6 +1,8 @@
 # 안녕하세요, 저는 김범준입니다. 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://sky80322.tistory.com/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
 
 저는 **보안 관제**, **모의해킹**, **DevSecOps** 기술을 바탕으로 성장하는 정보보안 전문가를 꿈꿉니다.</br>
 보안과 개발의 조화로운 통합을 추구하며, 안전한 서비스 구축에 기여하고자 합니다.
@@ -46,5 +48,5 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimbeomjoon90&show_icons=true&theme=tokyonight&locale=kr" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=redryan90&show_icons=true&theme=tokyonight&locale=kr" />
 </div>
