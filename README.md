@@ -38,9 +38,8 @@
 
 </br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Used Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> 기술 스택
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Lock" width="25" height="25" /> Used Security Tools
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Wazuh&color=B4E4FF&style=flat-square&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Snort&color=FFB4B4&style=flat-square&logoColor=black"/>&nbsp;
@@ -48,9 +47,13 @@
   <img src="https://img.shields.io/static/v1?label=&message=ModSecurity&color=B4F4D0&style=flat-square&logoColor=black"/>
 </p>
 
-</br>
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=&message=Wireshark&color=B4E4FF&style=flat-square&logo=wireshark&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=GNS3&color=FFB4B4&style=flat-square&logo=cisco&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Zabbix&color=D4B4FF&style=flat-square&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=SNMP&color=B4F4D0&style=flat-square&logoColor=black"/>
+</p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Used Penetration Testing Tools
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Burp Suite&color=B4E4FF&style=flat-square&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=OWASP ZAP&color=FFB4B4&style=flat-square&logo=owasp&logoColor=black"/>&nbsp;
@@ -58,49 +61,38 @@
   <img src="https://img.shields.io/static/v1?label=&message=Metasploit&color=B4F4D0&style=flat-square&logoColor=black"/>
 </p>
 
-</br>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Used DevSecOps Tools
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Kubernetes&color=B4E4FF&style=flat-square&logo=kubernetes&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Kind&color=FFB4B4&style=flat-square&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Docker&color=D4B4FF&style=flat-square&logo=docker&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Jenkins&color=B4F4D0&style=flat-square&logo=jenkins&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=B4E4FF&style=flat-square&logo=github&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=SonarQube&color=FFB4B4&style=flat-square&logo=sonarqube&logoColor=black"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Jenkins&color=B4F4D0&style=flat-square&logo=jenkins&logoColor=black"/>
 </p>
 
-</br>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Used Development Tools
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=B4E4FF&style=flat-square&logo=html5&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=FFB4B4&style=flat-square&logo=css3&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=D4B4FF&style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=PHP&color=B4F4D0&style=flat-square&logo=php&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Linux&color=B4E4FF&style=flat-square&logo=linux&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Bash&color=FFB4B4&style=flat-square&logo=gnubash&logoColor=black"/>
+  <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=B4E4FF&style=flat-square&logo=github&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=SonarQube&color=FFB4B4&style=flat-square&logo=sonarqube&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=D4B4FF&style=flat-square&logo=html5&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=B4F4D0&style=flat-square&logo=css3&logoColor=black"/>
 </p>
 
-</br>
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=B4E4FF&style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=PHP&color=FFB4B4&style=flat-square&logo=php&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Linux&color=D4B4FF&style=flat-square&logo=linux&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Bash&color=B4F4D0&style=flat-square&logo=gnubash&logoColor=black"/>
+</p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" height="25" /> Used Database
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=B4E4FF&style=flat-square&logo=mysql&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=MariaDB&color=FFB4B4&style=flat-square&logo=mariadb&logoColor=black"/>
+  <img src="https://img.shields.io/static/v1?label=&message=MariaDB&color=FFB4B4&style=flat-square&logo=mariadb&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Notion&color=D4B4FF&style=flat-square&logo=notion&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Obsidian&color=B4F4D0&style=flat-square&logo=obsidian&logoColor=black"/>
 </p>
 
-</br>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Used Documentation Tools
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=Notion&color=B4E4FF&style=flat-square&logo=notion&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Obsidian&color=FFB4B4&style=flat-square&logo=obsidian&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Microsoft Office&color=D4B4FF&style=flat-square&logo=microsoftoffice&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Canva&color=B4F4D0&style=flat-square&logo=canva&logoColor=black"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Microsoft Office&color=B4E4FF&style=flat-square&logo=microsoftoffice&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Canva&color=FFB4B4&style=flat-square&logo=canva&logoColor=black"/>
 </p>
-
-</br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
 <div align="center">
