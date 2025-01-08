@@ -23,7 +23,7 @@
 
 </br>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Firecracker.png" alt="Firecracker" width="25" height="25" /> **Red Team - 모의해킹**: 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> **Red Team - 모의해킹**: 
   - OWASP Top 10 기반 웹 취약점 진단
   - Burp Suite, Kali Linux 활용 침투 테스트
   - 취약점 분석 및 보고서 작성
