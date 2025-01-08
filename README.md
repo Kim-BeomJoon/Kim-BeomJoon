@@ -2,13 +2,13 @@
 
 <div align="left" style="display: flex; gap: 8px;">
   <a href="https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881">
-    <img src="https://img.shields.io/badge/Portfolio-B4E4FF?style=flat-square&logo=notion&logoColor=black&link=https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881"/>
+    <img src="https://img.shields.io/badge/-Portfolio-B4E4FF?style=flat-square&logo=notion&logoColor=black"/>
   </a>
   <a href="https://sky80322.tistory.com/">
-    <img src="https://img.shields.io/badge/Blog-FFB4B4?style=flat-square&logo=tistory&logoColor=black&link=https://sky80322.tistory.com/"/>
+    <img src="https://img.shields.io/badge/-Blog-FFB4B4?style=flat-square&logo=tistory&logoColor=black"/>
   </a>
   <a href="https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881">
-    <img src="https://img.shields.io/badge/Notion-D4B4FF?style=flat-square&logo=notion&logoColor=black&link=https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881"/>
+    <img src="https://img.shields.io/badge/-Notion-D4B4FF?style=flat-square&logo=notion&logoColor=black"/>
   </a>
 </div>
 
