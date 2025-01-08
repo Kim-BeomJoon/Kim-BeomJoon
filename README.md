@@ -1,10 +1,9 @@
 # 안녕하세요, 저는 김범준입니다. 
 
 [![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=B4E4FF&style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
-[![Blog](https://img.shields.io/static/v1?label=&message=Blog&color=FFB4B4&style=flat-square&logo=tistory&logoColor=black)](https://sky80322.tistory.com/)
+[![Blog](https://img.shields.io/static/v1?label=&message=Blog&color=FFB4B4&style=flat-square&logoColor=black)](https://sky80322.tistory.com/)
 [![Notion](https://img.shields.io/static/v1?label=&message=Notion&color=D4B4FF&style=flat-square&logo=notion&logoColor=black)](https://www.notion.so/Joon-s-Information-Security-Record-2e8d6eb090ec4e608137dad26e774881)
 
-</br>
 **DevSecOps**, **보안 관제**, **모의해킹 기술**을 기반으로 성장하는 정보보안 전문가를 꿈꾸고 있습니다.
 
 보안은 혼자만의 영역이 아닌, 팀과 조직이 함께 만들어가는 가치라고 믿습니다. </br>
@@ -34,24 +33,24 @@
 
 ### 🔒 Used Security Tools
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=Wazuh&color=B4E4FF&style=flat-square&logo=wazuh&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Snort&color=FFB4B4&style=flat-square&logo=cisco&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Suricata&color=D4B4FF&style=flat-square&logo=idssuricata&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=ModSecurity&color=B4F4D0&style=flat-square&logo=apache&logoColor=black"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Wazuh&color=B4E4FF&style=flat-square&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Snort&color=FFB4B4&style=flat-square&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Suricata&color=D4B4FF&style=flat-square&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=ModSecurity&color=B4F4D0&style=flat-square&logoColor=black"/>
 </p>
 
 ### 🎯 Used Penetration Testing Tools
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=&message=Burp Suite&color=B4E4FF&style=flat-square&logo=portswigger&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Burp Suite&color=B4E4FF&style=flat-square&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=OWASP ZAP&color=FFB4B4&style=flat-square&logo=owasp&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Kali Linux&color=D4B4FF&style=flat-square&logo=kalilinux&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Metasploit&color=B4F4D0&style=flat-square&logo=rapid7&logoColor=black"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Metasploit&color=B4F4D0&style=flat-square&logoColor=black"/>
 </p>
 
 ### 🚀 Used DevSecOps Tools
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=&message=Kubernetes&color=B4E4FF&style=flat-square&logo=kubernetes&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Kind&color=FFB4B4&style=flat-square&logo=kubernetes&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Kind&color=FFB4B4&style=flat-square&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Docker&color=D4B4FF&style=flat-square&logo=docker&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Jenkins&color=B4F4D0&style=flat-square&logo=jenkins&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=B4E4FF&style=flat-square&logo=github&logoColor=black"/>&nbsp;
