@@ -103,6 +103,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=redryan90&show_icons=true&theme=tokyonight&locale=kr" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redryan90&layout=compact&theme=tokyonight&locale=kr" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kim-BeomJoon&show_icons=true&theme=tokyonight&locale=kr" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-BeomJoon&layout=compact&theme=tokyonight&locale=kr" />
 </div>
